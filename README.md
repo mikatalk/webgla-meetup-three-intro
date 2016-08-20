@@ -1,6 +1,6 @@
 #webgla-meetup-three-intro
 
-Materail presented during WebGLA meetup: http://www.meetup.com/LA-WebGL-Devs/
+WebGLA meetup presentation: http://www.meetup.com/LA-WebGL-Devs/
 
 ### Install/Setup
 `npm install`
